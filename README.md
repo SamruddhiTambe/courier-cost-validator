@@ -1,9 +1,5 @@
 # courier-cost-validator
 
-### README.md
-
-# Freight Charge Analysis Tool
-
 This Python-based solution analyzes and compares freight charges between Company X and its courier partners. The goal is to compute expected charges as per Company X’s standards and compare them with charges billed by courier companies.
 
 ---
